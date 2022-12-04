@@ -5,6 +5,7 @@
 * __Location__ : Tbilisi, Georgia
 * __Email__ : veselchaak@icloud.com
 * __Github account__ : [methfoxxkaiju](https://github.com/methfoxxkaiju)
+* __Discord nickname__ : Roman Greshchik(romangreshchik)
 
 ## __About me__
 
